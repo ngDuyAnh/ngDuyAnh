@@ -1,9 +1,7 @@
-## Hi there 👋
+# Hi, I'm Anh
 
-## Open-source contributions
+Developer with a Computer Engineering background.
+Most of my work comes down to one thing: someone has a problem, and I'd like to help fix it.
 
-### swagger-typescript-api
-
-Fixed a code-generation regression that silently swapped query and request-body arguments in generated TypeScript clients. Added regression tests; merged into the project's main branch.
-
-[View merged PR #1816](https://github.com/acacode/swagger-typescript-api/pull/1816)
+### Open source
+- **[swagger-typescript-api](https://github.com/acacode/swagger-typescript-api/pull/1816)** — fixed a code-gen regression that silently swapped query and body arguments in generated clients; added regression tests. Merged.
